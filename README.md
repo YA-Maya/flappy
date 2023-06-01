@@ -6,6 +6,9 @@ Building Flappy Bird was an absolute blast, and I can't wait to bring it to life
 -  CSS
 - HTML
 
+## Link
+https://sumeya.tech/Flappy/html%20folder/index.html
+
 ## Screenshots
 
 <img width="316" alt="Capture 7" src="https://user-images.githubusercontent.com/98185508/225890154-7623613a-a1eb-448b-9975-b8425caf6026.PNG">
